@@ -1370,6 +1370,8 @@
   "feature.wynntils.wybelSound.hideText.description": "Ska vi dölja chatttexten om vi spelar ett ljud?",
   "feature.wynntils.wybelSound.hideText.name": "Dölj Chatttext",
   "feature.wynntils.wybelSound.name": "Wybel-ljud",
+  "feature.wynntils.wynnbuilderExport.description": "Genererar en Wynnbuilder-länk för din nuvarande build.",
+  "feature.wynntils.wynnbuilderExport.name": "Exportera build till Wynnbuilder",
   "feature.wynntils.wynncraftButton.autoConnect.description": "Ska modden automatiskt ansluta till Wynncraft vid start?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Autoanslut vid Start",
   "feature.wynntils.wynncraftButton.description": "Lägger till en knapp i huvudmenyn för att gå med i Wynncraft.",

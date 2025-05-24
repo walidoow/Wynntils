@@ -1352,6 +1352,8 @@
   "feature.wynntils.wybelSound.hideText.description": "Moeten we de chattekst verbergen als we een geluid afspelen?",
   "feature.wynntils.wybelSound.hideText.name": "Verberg Chattekst",
   "feature.wynntils.wybelSound.name": "Wybel Geluiden",
+  "feature.wynntils.wynnbuilderExport.description": "Genereert een Wynnbuilder-link voor je huidige build.",
+  "feature.wynntils.wynnbuilderExport.name": "Build exporteren naar Wynnbuilder",
   "feature.wynntils.wynncraftButton.autoConnect.description": "Moet de mod automatisch verbinding maken met Wynncraft bij het opstarten?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Automatisch Verbinden bij Start",
   "feature.wynntils.wynncraftButton.description": "Voegt een knop toe aan het hoofdmenu om Wynncraft te joinen.",

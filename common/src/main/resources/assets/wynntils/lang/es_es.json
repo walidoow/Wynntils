@@ -1352,6 +1352,8 @@
   "feature.wynntils.wybelSound.hideText.description": "¿Deberíamos ocultar el texto del chat si reproducimos un sonido?",
   "feature.wynntils.wybelSound.hideText.name": "Ocultar Texto del Chat",
   "feature.wynntils.wybelSound.name": "Sonidos de Wybel",
+  "feature.wynntils.wynnbuilderExport.description": "Genera un enlace de Wynnbuilder para tu build actual.",
+  "feature.wynntils.wynnbuilderExport.name": "Exportar build a Wynnbuilder",
   "feature.wynntils.wynncraftButton.autoConnect.description": "¿Debería el mod conectarse automáticamente a Wynncraft al iniciar?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Conexión Automática al Iniciar",
   "feature.wynntils.wynncraftButton.description": "Añade un botón al menú principal para unirse a Wynncraft.",

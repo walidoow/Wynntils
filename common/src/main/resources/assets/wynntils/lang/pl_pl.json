@@ -1352,6 +1352,8 @@
   "feature.wynntils.wybelSound.hideText.description": "Czy ukryć tekst czatu, jeśli odtwarzamy dźwięk?",
   "feature.wynntils.wybelSound.hideText.name": "Ukryj Tekst Czatowy",
   "feature.wynntils.wybelSound.name": "Dźwięki Wybel",
+  "feature.wynntils.wynnbuilderExport.description": "Generuje link Wynnbuilder dla twojego aktualnego builda.",
+  "feature.wynntils.wynnbuilderExport.name": "Eksportuj build do Wynnbuildera",
   "feature.wynntils.wynncraftButton.autoConnect.description": "Czy mod powinien automatycznie łączyć się z Wynncraft przy starcie?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Automatyczne Łączenie przy Starcie",
   "feature.wynntils.wynncraftButton.description": "Dodaje przycisk do menu głównego, aby dołączyć do Wynncraft.",

@@ -1352,6 +1352,8 @@
   "feature.wynntils.wybelSound.hideText.description": "如果我們播放聲音，是否應該隱藏聊天文本？",
   "feature.wynntils.wybelSound.hideText.name": "隱藏聊天文本",
   "feature.wynntils.wybelSound.name": "Wybel聲音",
+  "feature.wynntils.wynnbuilderExport.description": "為您的目前build生成 Wynnbuilder 連結。",
+  "feature.wynntils.wynnbuilderExport.name": "匯出 build 到 Wynnbuilder",
   "feature.wynntils.wynncraftButton.autoConnect.description": "mod是否應該在啟動時自動連接到Wynncraft？",
   "feature.wynntils.wynncraftButton.autoConnect.name": "啟動時自動連接",
   "feature.wynntils.wynncraftButton.description": "在主菜單中添加一個按鈕以加入Wynncraft。",

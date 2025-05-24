@@ -1352,6 +1352,8 @@
   "feature.wynntils.wybelSound.hideText.description": "音を再生する場合、チャットテキストを非表示にしますか？",
   "feature.wynntils.wybelSound.hideText.name": "チャットテキストを隠す",
   "feature.wynntils.wybelSound.name": "Wybelの音",
+  "feature.wynntils.wynnbuilderExport.description": "現在のビルド用にWynnbuilderリンクを生成します。",
+  "feature.wynntils.wynnbuilderExport.name": "構成をWynnbuilderにエクスポート",
   "feature.wynntils.wynncraftButton.autoConnect.description": "起動時にmodが自動的にWynncraftに接続しますか？",
   "feature.wynntils.wynncraftButton.autoConnect.name": "起動時に自動接続",
   "feature.wynntils.wynncraftButton.description": "メインメニューにWynncraftに参加するボタンを追加します。",

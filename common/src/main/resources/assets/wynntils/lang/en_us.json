@@ -1579,6 +1579,8 @@
   "feature.wynntils.wybelSound.hideText.description": "Should we hide the chat text if we play a sound?",
   "feature.wynntils.wybelSound.hideText.name": "Hide Chat Text",
   "feature.wynntils.wybelSound.name": "Wybel Sounds",
+  "feature.wynntils.wynnbuilderExport.description": "Generates a Wynnbuilder link for your current build.",
+  "feature.wynntils.wynnbuilderExport.name": "Export build to Wynnbuilder",
   "feature.wynntils.wynncraftButton.autoConnect.description": "Should the mod auto-connect to Wynncraft on startup?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Auto-Connect on Startup",
   "feature.wynntils.wynncraftButton.cancelAutoJoin.description": "Should auto-connect be cancelled if a download required by the mod failed to download?",

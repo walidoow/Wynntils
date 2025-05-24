@@ -1352,6 +1352,8 @@
   "feature.wynntils.wybelSound.hideText.description": "Elrejtsük-e a csevegési szöveget, ha hangot játszunk le?",
   "feature.wynntils.wybelSound.hideText.name": "Csevegési Szöveg Elrejtése",
   "feature.wynntils.wybelSound.name": "Wybel Hangok",
+  "feature.wynntils.wynnbuilderExport.description": "Generál egy Wynnbuilder linket az aktuális buildedhez.",
+  "feature.wynntils.wynnbuilderExport.name": "Build exportálása a Wynnbuilderbe",
   "feature.wynntils.wynncraftButton.autoConnect.description": "Automatikusan csatlakozzon-e a mod Wynncraft-hoz indításkor?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Automatikus Csatlakozás Indításkor",
   "feature.wynntils.wynncraftButton.description": "Gomb hozzáadása a főmenübe a Wynncraft csatlakozáshoz.",

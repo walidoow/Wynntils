@@ -1366,6 +1366,8 @@
   "feature.wynntils.wybelSound.hideText.description": "Следует ли скрыть текст чата, если мы воспроизводим звук?",
   "feature.wynntils.wybelSound.hideText.name": "Скрыть Текст Чата",
   "feature.wynntils.wybelSound.name": "Звуки Выбеля",
+  "feature.wynntils.wynnbuilderExport.description": "Создает ссылку Wynnbuilder для вашего текущего билда.",
+  "feature.wynntils.wynnbuilderExport.name": "Экспорт билда в Wynnbuilder",
   "feature.wynntils.wynncraftButton.autoConnect.description": "Должен ли мод автоматически подключаться к Wynncraft при запуске?",
   "feature.wynntils.wynncraftButton.autoConnect.name": "Автоподключение при Запуске",
   "feature.wynntils.wynncraftButton.description": "Добавляет кнопку в главное меню для присоединения к Wynncraft.",
